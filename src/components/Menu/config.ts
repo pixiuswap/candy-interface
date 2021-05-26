@@ -42,26 +42,38 @@ const config: MenuEntry[] = [
   {
     label: 'Prediction',
     icon: 'PredictionsIcon',
-    href: 'https://candyswapliquidity.io/prediction',
+    href: 'https://candyswapliquidity.io/#',
     status: {
-      text: 'BETA',
+      text: 'COMING SOON',
       color: 'warning',
     },
   },
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'https://candyswapliquidity.io/lottery',
+    href: 'https://candyswapliquidity.io/#',
+    status: {
+      text: 'COMING SOON',
+      color: 'warning',
+    },
   },
   {
     label: 'Collectibles',
     icon: 'NftIcon',
-    href: 'https://candyswapliquidity.io/nft',
+    href: 'https://candyswapliquidity.io/#',
+    status: {
+      text: 'COMING SOON',
+      color: 'warning',
+    },
   },
   {
     label: 'Team Battle',
     icon: 'TeamBattleIcon',
-    href: 'https://candyswapliquidity.io/competition',
+    href: 'https://candyswapliquidity.io/#',
+    status: {
+      text: 'COMING SOON',
+      color: 'warning',
+    },
   },
   {
     label: 'Teams & Profile',
@@ -106,7 +118,11 @@ const config: MenuEntry[] = [
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: 'https://candyswapliquidity.io/ifo',
+    href: 'https://candyswapliquidity.io/#',
+    status: {
+      text: 'COMING SOON',
+      color: 'warning',
+    },
   },
   {
     label: 'More',

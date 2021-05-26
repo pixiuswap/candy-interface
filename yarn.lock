@@ -2737,7 +2737,7 @@
 
 "@pancakeswap-libs/uikit@candydefi/candy-uikit":
   version "0.29.3"
-  resolved "https://codeload.github.com/candydefi/candy-uikit/tar.gz/1662ec36f8f2de6e87c43f63f564fa9ff4d5669d"
+  resolved "https://codeload.github.com/candydefi/candy-uikit/tar.gz/7c6e852bd5ef8c2279f43d1a7455153748031fa4"
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"
