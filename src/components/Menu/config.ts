@@ -113,6 +113,10 @@ const config: MenuEntry[] = [
         label: 'Accounts',
         href: 'https://pancakeswap.info/accounts',
       },
+      {
+        label: 'CANDY Token',
+        href: 'https://bscscan.com/address/0xC10d6fEc060745809D1c8836B80B1F2f74b7B60a',
+      },
     ],
   },
   {
