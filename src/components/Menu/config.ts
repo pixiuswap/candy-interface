@@ -39,42 +39,8 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: 'https://candyswapliquidity.io/pools',
   },
-  {
-    label: 'Prediction',
-    icon: 'PredictionsIcon',
-    href: 'https://candyswapliquidity.io/#',
-    status: {
-      text: 'COMING SOON',
-      color: 'warning',
-    },
-  },
-  {
-    label: 'Lottery',
-    icon: 'TicketIcon',
-    href: 'https://candyswapliquidity.io/#',
-    status: {
-      text: 'COMING SOON',
-      color: 'warning',
-    },
-  },
-  {
-    label: 'Collectibles',
-    icon: 'NftIcon',
-    href: 'https://candyswapliquidity.io/#',
-    status: {
-      text: 'COMING SOON',
-      color: 'warning',
-    },
-  },
-  {
-    label: 'Team Battle',
-    icon: 'TeamBattleIcon',
-    href: 'https://candyswapliquidity.io/#',
-    status: {
-      text: 'COMING SOON',
-      color: 'warning',
-    },
-  },
+
+
   {
     label: 'Teams & Profile',
     icon: 'GroupsIcon',
